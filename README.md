@@ -47,7 +47,7 @@ The **React Native app** acts as the user’s **central hub** for control and mo
 - Bluetooth connection with Arduino (**via HC-05**).  
 - UI to control appliances (on/off states).  
 - Live sensor readings (**temperature, humidity**).  
-- Gesture mode toggle to activate/deactivate accelerometer-based control.  
+- Appliance usage tracking for efficient usage.  
 - User profile for personalization.  
 
 This ensures that even without gestures, the user always has a **reliable fallback control system**.
