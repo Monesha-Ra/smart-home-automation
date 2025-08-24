@@ -64,16 +64,16 @@ This ensures that even without gestures, the user always has a **reliable fallba
 ## 📱 UI Images
 
 ### 1. **Home Screen**
-![Home Screen](./UI/home_screen.jpg)
+<img src="./UI/home_screen.jpg" alt="Home Screen" width="300"/>
 
 ### 2. **Living Room**
-![Living Room](./UI/living_room.jpg)
+<img src="./UI/living_room.jpg" alt="Living Room" width="300"/>
 
 ### 3. **User Profile**
-![User Profile](./UI/user_profile.jpg)
+<img src="./UI/user_profile.jpg" alt="User Profile" width="300"/>
 
 ### 4. **Your Devices**
-![Your Devices](./UI/your_devices.jpg)
+<img src="./UI/your_devices.jpg" alt="Your Devices" width="300"/>
 
 ### 5. **Your Rooms**
-![Your Rooms](./UI/your_rooms.jpg)
+<img src="./UI/your_rooms.jpg" alt="Your Rooms" width="300"/>
