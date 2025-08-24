@@ -23,19 +23,19 @@ This approach allows **hands-free, effortless control**, making automation more 
 
 ## Features
 
-### 🔹 Dual Control Modes
+###  Dual Control Modes
 - **Mobile App (Bluetooth)**: Control appliances, monitor temperature & humidity, and switch modes.  
 - **Gesture Mode (Accelerometer)**: Tilts control devices, double-tap toggles gesture mode.  
 
-### 🔹 Environmental Sensing
+###  Environmental Sensing
 - **DHT11 Sensor** measures temperature and humidity.  
 - Values displayed in the app.  
 
-### 🔹 Real-Time Feedback
+###  Real-Time Feedback
 - Appliance status shown on the app and LCD.  
 - Logs actions for debugging and monitoring.  
 
-### 🔹 Prototype for Smartwatch Integration
+###  Prototype for Smartwatch Integration
 - Tilt-based control simulates future wearable automation systems.  
 - Reduces dependency on smartphones.  
 
@@ -61,7 +61,7 @@ This ensures that even without gestures, the user always has a **reliable fallba
 
 ---
 
-## 📱 UI Images
+##  UI Images
 
 ### 1. **Home Screen**
 <img src="./UI/home_screen.jpg" alt="Home Screen" width="300"/>
